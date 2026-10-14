@@ -1,0 +1,22 @@
+project introduction
+_____________________
+product
+eCommerce Product/Application
+
+eCommerce
+_________
+	Login
+	Search for products/item
+	Add to cart
+	Do payment
+	Product will be delivered
+	Return the product
+	etc...
+
+
+frontend ----public
+
+
+URL:https://demo.opencart.com/
+customer : OpenCart
+Mockup Screen
